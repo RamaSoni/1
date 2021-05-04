@@ -1,3 +1,4 @@
+![Desktop Screenshot 2021 05 04 - 17 15 02 80](https://user-images.githubusercontent.com/63451651/116999461-46d50100-acfd-11eb-8ef1-c018027818ca.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
